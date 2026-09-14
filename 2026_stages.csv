@@ -1,0 +1,33 @@
+,sys,system,series,stage,short,bottom,mid,top,dur,stg,systemCol,seriesCol,col
+28,S,Silurian,Pridoli,Pridoli,Pri,422.7,421.16,419.62,3.08,28,#bfe0cd,#ebf5ec,#ebf5ec
+29,D,Devonian,Lower Devonian,Lochkovian,Loc,419.62,416.32,413.02,6.6,29,#d49f51,#e9ba6a,#eac378
+30,D,Devonian,Lower Devonian,Pragian,Pra,413.02,411.82,410.62,2.4,30,#d49f51,#e9ba6a,#ebcd87
+31,D,Devonian,Lower Devonian,Emsian,Ems,410.62,402.045,393.47,17.15,31,#d49f51,#e9ba6a,#edd595
+32,D,Devonian,Middle Devonian,Eifelian,Eif,393.47,390.71,387.95,5.52,32,#d49f51,#f4ce85,#f5da93
+33,D,Devonian,Middle Devonian,Givetian,Giv,387.95,385.13,382.31,5.64,33,#d49f51,#f4ce85,#f5e2a0
+34,D,Devonian,Upper Devonian,Frasnian,Fra,382.31,377.23,372.15,10.16,34,#d49f51,#f5e4b6,#f4edc3
+35,D,Devonian,Upper Devonian,Famennian,Fam,372.15,365.505,358.86,13.29,35,#d49f51,#f5e4b6,#f4f0d5
+36,C,Carboniferous,Mississippian,Tournaisian,Tou,358.86,352.78,346.7,12.16,36,#6eafb5,#769e83,#9db989
+37,C,Carboniferous,Mississippian,Visean,Vis,346.7,338.5,330.3,16.4,37,#6eafb5,#769e83,#b7c089
+38,C,Carboniferous,Mississippian,Serpukhovian,Ser,330.3,326.85,323.4,6.9,38,#6eafb5,#769e83,#cdc888
+39,C,Carboniferous,Pennsylvanian,Bashkirian,Bas,323.4,319.3,315.2,8.2,39,#6eafb5,#a6c9cd,#a6c9cd
+40,C,Carboniferous,Pennsylvanian,Moscovian,Mos,315.2,311.1,307,8.2,40,#6eafb5,#a6c9cd,#bed3ce
+41,C,Carboniferous,Pennsylvanian,Kasimovian,Kas,307,305.35,303.7,3.3,41,#6eafb5,#a6c9cd,#cad8d9
+42,C,Carboniferous,Pennsylvanian,Gzhelian,Gzh,303.7,301.3,298.9,4.8,42,#6eafb5,#a6c9cd,#d6dcda
+43,P,Permian,Cisuralian,Asselian,Ass,298.9,296.21,293.52,5.38,43,#e35b41,#e5755f,#e07f6c
+44,P,Permian,Cisuralian,Sakmarian,Sak,293.52,291.81,290.1,3.42,44,#e35b41,#e5755f,#e18a76
+45,P,Permian,Cisuralian,Artinskian,Art,290.1,286.7,283.3,6.8,45,#e35b41,#e5755f,#e39684
+46,P,Permian,Cisuralian,Kungurian,Kun,283.3,278.85,274.4,8.9,46,#e35b41,#e5755f,#e49f90
+47,P,Permian,Guadalupian,Roadian,Roa,274.4,270.65,266.9,7.5,47,#e35b41,#f18f76,#f49984
+48,P,Permian,Guadalupian,Wordian,Wor,266.9,265.59,264.28,2.62,48,#e35b41,#f18f76,#f4a692
+49,P,Permian,Guadalupian,Capitanian,Cap,264.28,262.0685,259.857,4.423,49,#e35b41,#f18f76,#f6af9b
+50,P,Permian,Lopingian,Wuchiapingian,Wuc,259.857,256.9985,254.14,5.717,50,#e35b41,#f8baab,#fac4b8
+51,P,Permian,Lopingian,Changhsingian,Chg,254.14,253.021,251.902,2.238,51,#e35b41,#f8baab,#facfc6
+52,Tr,Triassic,Lower Triassic,Induan,Ind,251.902,251.351,250.8,1.102,52,#984b99,#a9599e,#b266a6
+53,Tr,Triassic,Lower Triassic,Olenekian,Ole,250.8,248.9,247,3.8,53,#984b99,#a9599e,#bb71ac
+54,Tr,Triassic,Middle Triassic,Anisian,Ani,247,244.232,241.464,5.536,54,#984b99,#bd86bd,#c793c3
+55,Tr,Triassic,Middle Triassic,Ladinian,Lad,241.464,239.232,237,4.464,55,#984b99,#bd86bd,#d0a0c8
+56,Tr,Triassic,Upper Triassic,Carnian,Car,237,232.15,227.3,9.7,56,#984b99,#c9a6d0,#d1b3d5
+57,Tr,Triassic,Upper Triassic,Norian,Nor,227.3,216.5,205.7,21.6,57,#984b99,#c9a6d0,#dbc1de
+58,Tr,Triassic,Upper Triassic,Rhaetian,Rha,205.7,203.55,201.4,4.3,58,#984b99,#c9a6d0,#e5cbe4
+59,J,Jurassic,Lower Jurassic,Hettangian,Het,201.4,200.45,199.5,1.9,59,#00b0e2,#02b1ea,#22b5e9
